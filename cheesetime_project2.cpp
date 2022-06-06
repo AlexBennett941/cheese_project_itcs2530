@@ -7,8 +7,8 @@ int main(){
     //formatting entry message
     cout << setw(70) << setfill('*') << '\n';
     cout << setw(19) << '*';
-    cout << " Welcome to my cheesy program ";
-    cout << setw(19) << '*' << '\n';
+    cout << " Welcome to the domain of cheese... ";
+    cout << setw(14) << '*' << '\n';
     cout << setw(69) << '*' << '\n'<<'\n';
     //init constants
     double const cheese_container = 2.76;
